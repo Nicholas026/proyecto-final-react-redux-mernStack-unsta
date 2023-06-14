@@ -19,7 +19,7 @@ import React from "react";
 import ComentarYCalificar from "./components/ComentarYCalificar";
 
 function App() {
-  useTitle("Datazo.com");
+  useTitle("Datazo con vos!");
 
   return (
     <Routes>
